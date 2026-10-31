@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+By setting a specific number of inputs HI the outputs will be HI to display the letter J on a 7 segment display
 
 ## How to test
 
-Explain how to use your project
+Set Inputs 1 and 2 and 6 or 7 to HI
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display to Outputs 1,2,3
